@@ -1,17 +1,6 @@
 # Hospital_Management
 #It is developed by java based system for patient insurance management
 
-Conversation opened. 1 unread message.
-
-Skip to content
-Using Gmail with screen readers
-1 of 1,638
-(no subject)
-Inbox
-
-Arunkumar V <arunkumarveera2004@gmail.com>
-14:59 (0 minutes ago)
-to me
 
 
 class Patient {
